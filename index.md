@@ -16,4 +16,4 @@
 
 ## Contact
 
-tobiaspuls@gmail.com
+<a href="mailto:tobiaspuls@gmail.com">tobiaspuls@gmail.com</a>
