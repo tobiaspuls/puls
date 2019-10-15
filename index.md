@@ -2,7 +2,7 @@
 
 2.11. A cappella Konzert mit Russischer Chormusik und Mendelssohn u.a.
 
-pre { tab-size: 4 } Junger Chor des Weinmeisterhauses || Chor der Staatlichen Universität Petrozayodsk
+<emsp> Junger Chor des Weinmeisterhauses || Chor der Staatlichen Universität Petrozayodsk
 
 ?ts=4 19:00 Uhr || Saal der Freien Waldorfschule Mitte || Eintritt frei
 
