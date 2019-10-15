@@ -12,3 +12,5 @@
 
 ## Berliner Weinbergensemble für Alte Musik
 
+<img src="https://tobiaspuls.github.io/images/47.jpg" alt="drawing" width="200"/>
+
