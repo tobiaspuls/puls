@@ -1,15 +1,20 @@
 ## Aktuelle Konzerte
 
-* **2.11. A cappella Konzert mit Russischer Chormusik und Mendelssohn u.a.** <br>
-Junger Chor des Weinmeisterhauses || Chor der Staatlichen Universität Petrozavodsk <br>
+* **2.11. Eine musikalische Reise von Karelien nach Berlin** <br>
+Junger Chor des Weinmeisterhauses || Akademischer Chor der Universität Petrozavodsk <br>
 19:00 Uhr, Saal der Freien Waldorfschule Mitte, Eintritt frei
 
 
-3.11.
+* **3.11. Chorkonzert mit dem Akademischen Chor der Universität Petrozavodsk** <br>
+Akademischer Chor der Universität Petrozavodsk || Berliner Lehrerchor e.V. <br>
+17:00 Uhr, Dorfkirche Alt-Tegel, Eintritt frei
 
 28.11.
 
-14.12.
+* **14.12. Weihnachtsoratorium (Kantaten 1-3) - Bach & Concerto grosso fatto per la notte di Natale - Corelli** <br>
+unger Chor des Weinmeisterhauses || Berliner Lehrerchor e.V. || Eltern-LehrerInnen-SchülerInnenchor und die 5.Klasse der Waldorfschule Werder/Havel || Berliner Weinbergensemble für Alte Musik <br>
+20:00 Uhr, Erlöserkirche Potsdam, Eintritt frei
+
 
 15.12.
 
