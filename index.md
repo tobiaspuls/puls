@@ -11,7 +11,7 @@
 15.12.
 
 ![Image of Tobias]
-(https://tobiaspuls.github.io/images/50.jpg)
+(https://tobiaspuls.github.io/images/50.png)
 
 
 ## Support or Contact
