@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Tobias Puls
-description: Chorleiter, Musikpädagoge, Dirigent <br> <a href="mailto:tobiaspuls@gmail.com" style="color:white">tobiaspuls@gmail.com</a> <br><br> <a href="mailto:tobiaspuls@gmail.com" style="color:black">Ensembles</a> <a href="mailto:tobiaspuls@gmail.com" style="color:black">Biografie</a> <a href="mailto:tobiaspuls@gmail.com" style="color:black">SchönesWort</a>
+description: Chorleiter, Musikpädagoge, Dirigent <br> <a href="mailto:tobiaspuls@gmail.com" style="color:white">tobiaspuls@gmail.com</a> <br><br> <a href="mailto:tobiaspuls@gmail.com" style="color:black">Ensembles |</a> <a href="mailto:tobiaspuls@gmail.com" style="color:black">| Biografie |</a> <a href="mailto:tobiaspuls@gmail.com" style="color:black">| SchönesWort</a>
 show_downloads: false
 github:
   is_user_page: true
