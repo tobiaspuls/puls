@@ -1,10 +1,8 @@
 ## Aktuelle Konzerte
 
-2.11. A cappella Konzert mit Russischer Chormusik und Mendelssohn u.a.
-
-<emsp> Junger Chor des Weinmeisterhauses || Chor der Staatlichen Universität Petrozayodsk
-
-?ts=4 19:00 Uhr || Saal der Freien Waldorfschule Mitte || Eintritt frei
+* **2.11. A cappella Konzert mit Russischer Chormusik und Mendelssohn u.a.** <br>
+Junger Chor des Weinmeisterhauses || Chor der Staatlichen Universität Petrozavodsk <br>
+19:00 Uhr, Saal der Freien Waldorfschule Mitte, Eintritt frei
 
 
 3.11.
