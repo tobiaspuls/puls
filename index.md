@@ -10,7 +10,7 @@
 
 15.12.
 
-![Image of Tobias](https://tobiaspuls.github.io/images/50.jpg)
+![Image of Tobias](https://tobiaspuls.github.io/images/50.jpg =250x)
 
 
 ## Support or Contact
