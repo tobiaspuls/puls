@@ -1,4 +1,4 @@
-## Konzerte
+## Aktuelle Konzerte
 
 2.11.
 
@@ -10,7 +10,4 @@
 
 15.12.
 
-## Markdown
-
-
-### Support or Contact
+## Support or Contact
