@@ -1,4 +1,4 @@
-
+Meine aktuellen Ensembles sowie musikalische und pädagogische Tätigkeiten
 
 ## Junger Chor des Weinmeisterhauses
 
