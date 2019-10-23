@@ -9,6 +9,12 @@ Händel - And he shall purify (Messiah) - Junger Chor des Weinmeisterhauses & Be
 Mozart - Requiem & Kyrie (Requiem) - Junger Chor des Weinmeisterhauses & Berliner Weinbergensemble für Alte Musik & Eltern-LehrerInnen-SchülerInnenchor der Waldorfschule Werder/Havel & Solistin: Rosa Hempel - Live in der Heilig-Kreuz Kirche Berlin
 <audio src="https://drive.google.com/uc?export=download&id=132oIQrWMtvicKeShVIWX8Fn0ljYvFEgR" controls preload></audio>
 
+Bach - Es ist nun nichts (Jesu, meine Freude) - Junger Chor des Weinmeisterhauses & Berliner Weinbergensemble für Alte Musik - Live in der Emmauskirche Berlin
+<audio src="https://drive.google.com/uc?export=download&id=1W7unLDjFYYT8AyvFXn-cSQI-Kzl9YPQe" controls preload></audio>
+
+Händel - Dixit Dominus (Dixit Dominus) - Junger Chor des Weinmeisterhauses & Berliner Weinbergensemble für Alte Musik - Live in der Emmauskirche Berlin
+<audio src="https://drive.google.com/uc?export=download&id=1MF0fyGJsJUPeQla7Mtz7qNWV_ePjDAXk" controls preload></audio>
+
 Mozart - Laudate Dominum (Vesperae Solennes de confessore) - Junger Chor des Weinmeisterhauses & Berliner Weinbergensemble für Alte Musik & Solistin: Rosa Hempel - Live in der Heilig-Kreuz Kirche Berlin
 <video poster="https://drive.google.com/uc?export=download&id=1pa_g8jlJNeDSWQ4RdYf96DVjQu4dSB4y" width="309" height="173" controls preload> 
     <source src="https://drive.google.com/uc?export=download&id=1k1UKnsvlz1_waGmH91FEoSQ9vKZUYhwi" media="only screen and (min-device-width: 568px)"></source> 
