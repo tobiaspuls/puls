@@ -7,8 +7,6 @@ Händel - Overture (Messiah)
 <audio src="https://drive.google.com/uc?export=download&id=1g7qEbv22XIl_BE6GYSbQycpavv-qW9zT" controls preload></audio>
 
 Mozart - Requiem
-<audio src="https://drive.google.com/uc?export=download&id=1BTuLk2R_kpbxdgtUdZ_EMN8esoMg6tvy" controls preload></audio>
-
 <video width="618" height="347" controls preload> 
     <source src="https://drive.google.com/uc?export=download&id=1BTuLk2R_kpbxdgtUdZ_EMN8esoMg6tvy" media="only screen and (min-device-width: 568px)"></source> 
 </video>
