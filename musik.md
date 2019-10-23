@@ -3,9 +3,6 @@ Musik
 Händel - And he shall purify (Messiah)
 <audio src="https://drive.google.com/uc?export=download&id=1W6zcOrOyp0uLDpD-EhxY4ON5YZwAgFi0" controls preload></audio>
 
-Händel - Overture (Messiah)
-<audio src="https://drive.google.com/uc?export=download&id=1g7qEbv22XIl_BE6GYSbQycpavv-qW9zT" controls preload></audio>
-
 Mozart - Requiem
 <video width="618" height="347" controls preload> 
     <source src="https://drive.google.com/uc?export=download&id=1BTuLk2R_kpbxdgtUdZ_EMN8esoMg6tvy" ></source> 
