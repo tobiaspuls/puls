@@ -8,7 +8,7 @@ Händel - Overture (Messiah)
 
 Mozart - Requiem
 <video width="618" height="347" controls preload> 
-    <source src="https://drive.google.com/uc?export=download&id=1BTuLk2R_kpbxdgtUdZ_EMN8esoMg6tvy" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="https://drive.google.com/uc?export=download&id=1BTuLk2R_kpbxdgtUdZ_EMN8esoMg6tvy" ></source> 
 </video>
 
 Mozart - Lacrimosa
