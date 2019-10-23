@@ -12,7 +12,9 @@ Mozart - Requiem
 </video>
 
 Mozart - Lacrimosa
-<audio src="https://drive.google.com/uc?export=download&id=1Rumjy7dG0WZzV7a8Xi63lTbfimldewfb" controls preload></audio>
+<video width="618" height="347" controls preload> 
+    <source src="https://drive.google.com/uc?export=download&id=1Rumjy7dG0WZzV7a8Xi63lTbfimldewfb" ></source> 
+</video>
 
 Mozart - Recordare
 <audio src="https://drive.google.com/uc?export=download&id=1A0sRrmjeCzFhAyhuZt2KrGv_aiuN8jWM" controls preload></audio>
