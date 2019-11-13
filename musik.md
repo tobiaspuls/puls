@@ -15,9 +15,4 @@ Bach - Es ist nun nichts (Jesu, meine Freude) - Junger Chor des Weinmeisterhause
 Händel - Dixit Dominus (Dixit Dominus) - Junger Chor des Weinmeisterhauses & Berliner Weinbergensemble für Alte Musik - Live in der Emmauskirche Berlin
 <audio src="https://drive.google.com/uc?export=download&id=1MF0fyGJsJUPeQla7Mtz7qNWV_ePjDAXk" controls preload></audio>
 
-Mozart - Laudate Dominum (Vesperae Solennes de confessore) - Junger Chor des Weinmeisterhauses & Berliner Weinbergensemble für Alte Musik & Solistin: Rosa Hempel - Live in der Heilig-Kreuz Kirche Berlin
-<video poster="https://drive.google.com/uc?export=download&id=1pa_g8jlJNeDSWQ4RdYf96DVjQu4dSB4y" width="309" height="173" controls preload> 
-    <source src="https://drive.google.com/uc?export=download&id=1k1UKnsvlz1_waGmH91FEoSQ9vKZUYhwi" media="only screen and (min-device-width: 568px)"></source> 
-    <source src="https://drive.google.com/uc?export=download&id=1RmZ5dN2BaHYI5PVmlN-rHC5QwnOb4Itl" media="only screen and (max-device-width: 568px)"></source> 
-    <source src="https://drive.google.com/uc?export=download&id=15uESk4iYH5aX2WhS9Gi5I-LCgnXfB8KS"></source> 
-</video>
+
