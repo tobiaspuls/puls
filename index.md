@@ -16,9 +16,9 @@ Junger Chor des Weinmeisterhauses || Berliner Weinbergensemble für Alte Musik <
 Abendveranstaltungen in Berlin, Eintritt frei
 
 
-* **20.6. und 21.6. Haydn Gesänge, Palestrina Missa Brevis, Telemann Motetten ** <br>
+* **20.6. und 21.6. Haydn Gesänge, Palestrina Missa Brevis, Telemann Motetten** <br>
 Berliner Lehrerchor e.V. <br>
-Abendveranstaltung am 20.6. in der Friedenskirche Charlottenburg
+Abendveranstaltung am 20.6. in der Friedenskirche Charlottenburg <br>
 17:00 Uhr am 21.6. in der Dorfkirche Alt-Tegel
 
 ## Contact
