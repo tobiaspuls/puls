@@ -1,14 +1,14 @@
 Ich bin Chorleiter der Berliner Chöre "Junger Chor des Weinmeisterhauses" und "Berliner Lehrerchor e.V." und leite das "Berliner Weinbergensemble für alte Musik". An der Waldorfschule Werder/Havel arbeite ich als Musiklehrer. Dort leite ich den Oberstufenchor, die Chöre der Klassen 5-8, mache den Musikunterricht in der Mittelstufe und bin Klassenlehrer der 11.Klasse. <br>
 
-Ein Bericht aus der Presse zu meinem letzten Projekt finden Sie <a href="https://yea.to/3sJt7">hier</a> 
+Ein Bericht aus der Presse zu meinem letzten Projekt finden Sie <a href="https://www.erziehungskunst.de/artikel/waldorf-weltweit/ein-weihnachtsoratorium-in-werder-potsdam-und-berlin/">hier</a> 
 
 ## Aktuelle Konzerte
 
-* **19.3. und 20.3. Zauberflöte** <br>
+* **19.3. und 20.3. Zauberflöte !Bis auf weiteres Abgesagt!** <br>
 5.Klasse der Freien Waldorfschule Werder/Havel <br>
 Abendveranstaltungen in Werder, Eintritt frei
 
-* **28.3. Monatsfeier** <br>
+* **28.3. Monatsfeier !Bis auf weiteres Abgesagt!** <br>
 Schulchöre der Waldorfschule Werder/Havel u.a.<br>
 10:00 Uhr, Aula der Freien Waldorfschule Werder/Havel, Eintritt frei
 
@@ -17,6 +17,10 @@ Schulchöre der Waldorfschule Werder/Havel u.a.<br>
 Junger Chor des Weinmeisterhauses || Berliner Weinbergensemble für Alte Musik <br>
 Abendveranstaltungen in Berlin, Eintritt frei
 
+
+* **29.5. Schuljahresabschlusskonzert** <br>
+Schulchöre und Orchester der Waldorfschule Werder/Havel u.a.<br>
+17:00 Uhr, Werder/Havel Eintritt frei
 
 * **20.6. und 21.6. Haydn Gesänge, Palestrina Missa Brevis, Telemann Motetten** <br>
 Berliner Lehrerchor e.V. <br>
