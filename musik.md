@@ -1,5 +1,11 @@
 Musik
 
+Corelli - Concerto Grosso Fatto per la Notte di Natale - Berliner Weinbergensemble für Alte Musik
+<audio src="https://drive.google.com/uc?export=download&id=14asKPOESr0O0bL7lkUdY1FazE_HQMwpr" controls preload></audio>
+
+Bach - Weihnachtsoratorium Kantate 1 - Junger Chor des Weinmeisterhauses & Projektchor der Waldorfschule Werder/Havel & Klasse 5 der Waldorfschule Werder/Havel & Berliner Lehrerchor & Berliner Weinbergensemble für Alte Musik - Live in der Heilig-Kreuz Kirche Berlin
+<audio src="https://drive.google.com/uc?export=download&id=1EodXV6l8DTqKvVS7t80WAi6F_pWAYOu3" controls preload></audio>
+
 Händel - Overture (Messiah) - Berliner Weinbergensemble für Alte Musik - Live in der St. Jacobi Kirche Berlin
 <audio src="https://drive.google.com/uc?export=download&id=1e-T0irQi4RbQDNw5cO39Iar_vp3kgS7s" controls preload></audio>
 
