@@ -1,4 +1,4 @@
-Ich bedanke mich bei allen, die mich und meine Arbeit unterstützen. Alle, die in meinen Chören singen und mithelfen, dass die Konzerte stattfinden können. <br>
+Ich bedanke mich bei allen, die mich und meine Arbeit unterstützen, bei allen, die in meinen Chören singen und bei allen die mithelfen, dass unsere Konzerte stattfinden können. <br>
 
 Für finanzielle und strukturelle Unterstützungshilfe möchte ich mich auch bei allen unterstützenden Vereinigungen bedanken. Das waren in der Vergangenheit:<br>
 
