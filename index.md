@@ -32,5 +32,3 @@ Abendveranstaltung am 20.6. in der Friedenskirche Charlottenburg <br>
 <a href="mailto:tobiaspuls@gmail.com">tobiaspuls@gmail.com</a>
 
 <img src="https://tobiaspuls.github.io/images/50.jpg" alt="drawing" width="200"/>
-
-google-site-verification=L74r38PGu3CbeI6iMUFWhVoj6ilEcnuVjfhm9s3-5W8
