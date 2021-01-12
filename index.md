@@ -4,28 +4,8 @@ Ein Bericht aus der Presse zu meinem letzten Projekt finden Sie <a href="https:/
 
 ## Aktuelle Konzerte
 
-* **19.3. und 20.3. Zauberflöte !Bis auf weiteres Abgesagt!** <br>
-5.Klasse der Freien Waldorfschule Werder/Havel <br>
-Abendveranstaltungen in Werder, Eintritt frei
-
-* **28.3. Monatsfeier !Bis auf weiteres Abgesagt!** <br>
-Schulchöre der Waldorfschule Werder/Havel u.a.<br>
-10:00 Uhr, Aula der Freien Waldorfschule Werder/Havel, Eintritt frei
-
-
-* **8.5. und 9.5. Pachelbel Motetten und Buxtehude Membra Jesu Nostri** <br>
-Junger Chor des Weinmeisterhauses || Berliner Weinbergensemble für Alte Musik <br>
-Abendveranstaltungen in Berlin, Eintritt frei
-
-
-* **29.5. Schuljahresabschlusskonzert** <br>
-Schulchöre und Orchester der Waldorfschule Werder/Havel u.a.<br>
-17:00 Uhr, Werder/Havel Eintritt frei
-
-* **20.6. und 21.6. Haydn Gesänge, Palestrina Missa Brevis, Telemann Motetten** <br>
-Berliner Lehrerchor e.V. <br>
-Abendveranstaltung am 20.6. in der Friedenskirche Charlottenburg <br>
-17:00 Uhr am 21.6. in der Dorfkirche Alt-Tegel
+* **Alle Konzerte und Veranstaltungen sind bis auf weiteres abgesagt!** <br>
+Sobald es die Möglichkeit gibt, wieder öffentlich zu musizieren erfahren Sie hier von neuen Veranstaltungen<br>
 
 ## Contact
 
