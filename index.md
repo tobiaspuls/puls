@@ -5,7 +5,7 @@ Ein Bericht aus der Presse zu meinem letzten Projekt finden Sie <a href="https:/
 ## Aktuelle Konzerte
 
 * **Alle Konzerte und Veranstaltungen sind bis auf weiteres abgesagt!** <br>
-Hier erfahren Sie, wenn es wieder Konzerte oder Veranstaltungen mit meiner Beteiligung gibt!<br>
+Hier erfahren Sie von Konzerten und Veranstaltungen mit meiner Beteiligung, sobald es neue Planungen gibt!<br>
 
 ## Contact
 
